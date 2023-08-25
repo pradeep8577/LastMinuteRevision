@@ -224,7 +224,7 @@ public:
 
 **Real Life Example**
 
-<img src="/assets/images/inheritance.png" width="400" height="400">
+<img src="./assets/images/inheritance.png" width="400" height="400">
 
 There are 5 types of Inheritance:
 
