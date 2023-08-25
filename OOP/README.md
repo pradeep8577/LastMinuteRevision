@@ -212,7 +212,7 @@ public:
 
 **Answer**: The main four pillar of oops are given below.
 
-![pillar of OPPS](/assets/images/pillar_of_OOPS.png)
+![pillar of OPPS](./assets/images/pillar_of_OOPS.png)
 
 
 ---
@@ -478,7 +478,7 @@ int main()
 
 **Real Life Example**
 
-<img src="/assets/images/encapsulation.png" width="400" height="400">
+<img src="./assets/images/encapsulation.png" width="400" height="400">
 
 ```C++
 #include<iostream>
@@ -536,7 +536,7 @@ int main()
 
 **Real Life Example**
 
-<img src="/assets/images/abstraction.png" width="400" height="400">
+<img src="./assets/images/abstraction.png" width="400" height="400">
 
 
 ```C++
@@ -592,7 +592,7 @@ Polymorphism in C++ allows us to reuse code by creating one function that’s us
 
 **Real Life Example**
 
-<img src="/assets/images/polymorphism.png" width="400" height="400">
+<img src="./assets/images/polymorphism.png" width="400" height="400">
 
 
 There are 2 types of Polymorphism:
@@ -880,7 +880,7 @@ Protected Variable: 2
 
 ### Thanks for Reading 
 
-<img src="/assets/images/save.png" width="600" height="200">
+<img src="./assets/images/save.png" width="600" height="200">
 
 **For any doubt, feel free to connect on Linkedin and Instagram**
 
